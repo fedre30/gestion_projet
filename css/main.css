@@ -219,6 +219,11 @@ textarea {
         transform: translateY(-50%);
     }
 
+    h2{
+        font-size: 50px;
+        margin-top: 10px;
+    }
+
 }
 
 
